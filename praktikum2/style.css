@@ -1,0 +1,23 @@
+.form {
+display: flex;
+margin: 10px;
+}
+
+.box1{
+    margin-left: 10px;
+    flex-grow: 3;
+}
+
+.box2{
+    margin-left: 40px;
+    flex-grow: 1;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-decoration: white;
+}
+
+th{
+    background-color: blue;
+}
